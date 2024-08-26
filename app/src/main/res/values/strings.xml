@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz Master</string>
+    <string name="next_question">Next Question</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="question_will_be_here">Question will be here</string>
+    <string name="your_score">Your Score:</string>
+    <string name="restart_quiz">Restart Quiz</string>
+</resources>
